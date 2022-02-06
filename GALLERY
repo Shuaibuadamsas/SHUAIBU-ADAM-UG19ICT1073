@@ -1,0 +1,269 @@
+<html>
+    <head>
+        <title>Yaseer</title>
+            <style>
+                
+                body{
+                        
+                }
+                body{
+                    margin: 0px;
+                  
+                }
+                .topnav{
+                    padding: 20px;
+                   
+                  text-align: center;
+                }
+        
+                .topnav a{
+                    background-color: black;
+                    
+                    padding: 10;
+                    color: white;
+                    font-family: arial, sans-serif;
+                    border: solid 1px;
+                    border-radius: 5px;
+                    margin: 9px;
+                   
+                }
+                h1{
+                    font-size: 40px;
+                    font-family: algerian, sans-serif;
+                    text-align: center;
+                    text-decoration-style: dotted;
+                    border-style: ridge;
+                   
+                    border-top-color: brown;
+                    border-bottom-color: red;
+                    
+                }
+                
+                div{
+                    background-color: goldenrod;
+                   
+                   padding: 20px;   
+                    text-decoration: none;
+                }
+               
+                
+                :link{
+                    text-decoration: none;
+                    color: white;
+                    font-size: 20;
+                    padding: 20px;
+                    margin: 0px;
+                }
+                
+                table{
+                    border-color: red;
+                }
+                
+                h3{
+                    font-size: 40px;
+                    font-family: arial, sans-serif;
+                    margin: 5px;
+                    color: red;
+                    
+                }
+                
+                footer{
+                    background-color: black;
+                    padding: 60px;
+                }
+                :hover{
+                    padding: 10px;
+                    background-color: black;
+                }
+                
+                
+                h4{
+                    color: royalblue;
+                    margin: 10px;
+                    font-family: arial, sans-serif;
+                    font-size: 40px;
+                    text-align: center;
+                }
+                
+                h5{
+                    color: white;
+                    margin: 20px;
+                    font-family: arial, sans-serif;
+                    font-size: 15px;
+                    text-align: center;
+                }
+               
+                h7{
+                    color: red;
+                    font-family: brush script mt, sans-serif;
+                }
+                img {
+                    border-color: red;
+                }
+                
+        </style>
+            <body>
+        
+        <div class="topnav container">
+                
+                
+                <a href="Home.html">Home</a>
+            <a href=Gallery.html>Gallery</a>
+            <a href="Contact%20Us.html">Contact Us</a>
+            <a href="About%20Us.html">About Us</a>
+             <a href="Shop%20Now.html">Shop Now</a>
+            <a href="Log%20In%20Page.html">Log In</a>
+            <a href="Sign Up.html">Sign Up</a>
+            <a href="Feautures.html">Feautures</a>
+                
+              
+                
+                </div>
+                <h1>FALOLO GLOBAL BOUTIQUE  </h1>
+                <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="1.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them<br> you can get it at any time you need.<br>We can sent for you in any wher you want wehave a affordable Price <h3>N2000</h3> <a href="Shop%20Now.html">Buy Now</a><td><image src="2.jpg" width="400" height="400"></image></td>
+                        
+                        </td>
+                    
+                     <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="3.jpg" width="400" height="400"></image></td>
+                    
+                    <td>This kind of T-Shirt we have alot of them.<br> you can get it at any time you need.<br>We can sent for you in any wher you want wehave a affordable Price <h3>N2900</h3> <a href="Shop%20Now.html">Buy Now</a>
+                         <td><image src="4.jpg" width="400" height="400"></image></td>
+                        
+                        </td><table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="5.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br>We can sent for you in any wher you want wehave a affordable Price <h3>N1300</h3> <a href="Shop%20Now.html">Buy Now</a><td><image src="10.jpg" width="400" height="400"></image></td>
+                        
+                       <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="7.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them<br> you can get it at any time you need.<br>We can sent for you in any wher you want wehave a affordable Price <br><h3>N4800</h3> <a href="Shop%20Now.html">Buy Now</a>   <td><image src="8.jpg" width="400" height="400"></image></td>
+                        
+                        </td>
+                <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="9.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="10.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                         <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="11.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="12.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                         <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="13.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="14.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                           <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="15.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="16.jpeg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                           <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="17.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="18.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+        <hr>
+                           <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="19.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="20.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                           <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="20.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="1.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                           <table>
+                <th> 
+                <tr>
+                   <hr>
+                    <td><image src="20.jpg" width="400" height="400"></image></td>
+                    <td>This kind of T-Shirt we have alot of them you can get it at any time you need.<br> <h3>N8500</h3><br>
+                        <a href="Shop%20Now.html">Buy Now</a></td><td><image src="1.jpg" width="400" height="400"></image></td>
+                    
+                   
+                   
+                
+                    </tr></th></table>
+                     <footer>
+                    
+                    
+                   
+                        <h5><h7>@</h7>Powered by Mzeey.org 2021</h5>
+                        
+                    
+                    </footer>
+                    
+        
+        
+        
+        
+        </body>
+                   
+    </head>
+</html>
