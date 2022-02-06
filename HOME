@@ -1,0 +1,185 @@
+<html>
+    <head>
+        <title>Yaseer</title>
+            <style>
+                
+                body{
+                      background-image: url(deam.jpg);  
+                }
+                body{
+                    margin: 0px;
+                  
+                }
+                .topnav{
+                    padding: 20px;
+                   
+                  text-align: right;
+                }
+        
+                .topnav a{
+                    background-color: darkblue;
+                    
+                    padding: 10;
+                    color: white;
+                    font-family: arial, sans-serif;
+                    border: solid 1px;
+                    border-radius: 5px;
+                    margin: 9px;
+                    border-color: slategray;
+                    border-radius: 10px 5px;
+                        
+                   
+                }
+                h1{
+                    font-size: 100px;
+                    font-family: impact, sans-serif;
+                    color: black;
+                    text-align: center;
+                    text-decoration-style: dotted;
+                    margin: 0px;
+                   
+                   
+                    border-top-color: brown;
+                    
+                }
+                
+                div{
+                   
+                    box-shadow: 0px 2px white;
+                    padding: 20px;   
+                    text-decoration: none;
+                }
+               
+                
+                :link{
+                    text-decoration: none;
+                    color: white;
+                    font-size: 20;
+                    padding: 20px;
+                    margin: 0px;
+                }
+                
+                
+                h3{
+                    font-size: 40px;
+                    font-family: arial, sans-serif;
+                    margin: 20spx;
+                    color: red;
+                    
+                }
+                
+                
+                
+                h2{
+                    color: black;
+                   
+                    font-family: arial, sans-serif;
+                    font-size: 40px;
+                    text-align: center;
+                    font-family: arial, sans-serif;
+                    margin: 0px;
+                }
+                
+           
+                table{
+                    border: solid px;
+                    height: 10px;
+                    width: 300px;
+                    margin: 20px;
+                    box-shadow: 7px 0px 15px gray;
+                }  
+                
+                div{
+                    float: right;
+                    margin: 1px;
+                    box-shadow: 7px 0px 15px gray;
+                }
+                
+                h5{
+                    color: teal;
+                    font-family: arial, sans-serif;
+                    font-size: 40px;
+                    text-align: center;
+                    margin: 0px;
+                }
+                
+                h6{
+                    margin: 1px;
+                }
+                
+                footer{
+                    background-color: black;
+                    width: 1349px;
+                    height: 100px;
+                    margin: 0px;
+                    color: white;
+                    text-align: center;
+                    font-family: arial, sans-serif;
+                }
+        </style>
+            <body>
+        
+        <div class="topnav container">
+                
+            <a href=Gallery.html>Gallery</a>
+            <a href="Contact%20Us.html">Contact Us</a>
+            <a href="About%20Us.html">About Us</a>
+            <a href="Shop%20Now.html">Shop Now</a>
+            <a href="Log%20In%20Page.html">Log In</a>
+            <a href="Sign Up.html">Sign Up</a>
+            <a href="Feautures.html">Feautures</a>
+                
+                </div>
+
+                <br>
+                <br>
+               
+                
+                
+               
+                
+                
+       <h2>Welcome To Our Site<h1> FALOLO GLOBAL BOUTIQUE</h1></h2>
+                <center>
+               
+                </center>
+                <h5>JEANS & T-SHIRTS<br> <h7>Only We Sell</h7></h5>
+                 <div>
+                
+                <image src="10.jpg" width="300" height="290"></image>
+                
+                </div>
+                <table>
+              <td><image src="16.jpeg" height="300" width="290"></image></td>  
+                    
+                <tr>
+               <td> </td>
+                   
+              </table>
+                 
+                <div>
+                
+                <image src="9.jpg" width="300" height="300"></image>
+                
+                </div>
+              <table>
+              <td><image src="14.jpg" height="300" width="200"></image></td>    
+                <tr>
+               <td> </td>
+              </table>
+              
+                
+           
+        </body>
+                   
+    </head>
+    <br>
+    
+    <footer>
+    
+    <br><br><br>
+    
+    <h8>@Powered by Mzeey.org 2021</h8>
+    
+    </footer>
+</html>
