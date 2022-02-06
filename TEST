@@ -1,0 +1,142 @@
+<html>
+    <head>
+        <title>Yaseer</title>
+            <style>
+                
+                body{
+                      background-image: url(dream.jpg);  
+                }
+                body{
+                    margin: 0px;
+                  
+                }
+                .topnav{
+                    padding: 20px;
+                   
+                  text-align: right;
+                }
+        
+                .topnav a{
+                    background-color: darkblue;
+                    
+                    padding: 10;
+                    color: white;
+                    font-family: arial, sans-serif;
+                    border: solid 1px;
+                    border-radius: 5px;
+                    margin: 9px;
+                    border-color: slategray;
+                    border-radius: 10px 5px;
+                        
+                   
+                }
+                h1{
+                    font-size: 100px;
+                    font-family: impact, sans-serif;
+                    color: white;
+                    text-align: center;
+                    text-decoration-style: dotted;
+                    margin: 0px;
+                   
+                   
+                    border-top-color: brown;
+                    
+                }
+                
+              
+                
+                :link{
+                    text-decoration: none;
+                    color: white;
+                    font-size: 20;
+                    padding: 20px;
+                    margin: 0px;
+                }
+                
+                
+                h3{
+                    font-size: 40px;
+                    font-family: arial, sans-serif;
+                    margin: 20spx;
+                    color: red;
+                    
+                }
+                
+                
+                
+                h2{
+                    color: white;
+                   
+                    font-family: arial, sans-serif;
+                    font-size: 40px;
+                    text-align: center;
+                    font-family: arial, sans-serif;
+                    margin: 0px;
+                }
+                button{
+                    
+                    padding: 30px;
+                    margin: 20px;
+                    background-color: red;
+                    color: white;
+                    border-color: lightcyan;
+                    border-radius: 10px;
+                    font-family: Broadway, sans-serif;
+                }
+                :hover{
+                    background-color: aqua;
+                }
+                
+                
+                container{
+                    background-color: red;
+                }
+                
+                
+        </style>
+            <body>
+        
+        <div class="topnav container">
+                
+                
+              
+            <a href=Gallery.html>Gallery</a>
+            <a href="Contact%20Us.html">Contact Us</a>
+            <a href="About%20Us.html">About Us</a>
+              <a href="Log%20In%20Page.html">Log In</a>
+            <a href="Sign Up.html">Sign Up</a>
+            <a href="Feautures.html">Feautures</a>
+                
+                
+                </div>
+                
+                <div class="container">
+                
+                
+                <h7> Kano State</h7>
+                
+                
+                
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                
+                
+               
+                
+                
+                <h2>Welcome To Our Site<h1>AL-MIZAN BOUTIQUE</h1></h2>
+                <center>
+                <button>AFFORDABLE PRICE</button>
+                </center>
+                
+               
+        </body>
+                   
+    </head>
+</html>
