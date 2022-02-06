@@ -1,0 +1,121 @@
+
+<html>
+    <head>
+        <title>Contact Us</title>
+            <style>
+                
+                body{
+                    background-image: url(elon.jpg);
+                }
+                
+                
+                input{
+                    background-color: lightgray;
+                    padding: 10px;
+                    margin: 5px;
+                }
+                select{
+                     background-color: white;
+                    padding: 10px;
+                    margin: 5px;
+                }
+                div{
+                    width: 400px;
+                    height: 480px;
+                    background-color: white;
+                    border-radius: 12px;
+                    float: right;
+                    margin: 50px;
+                    background-color: darkorange;
+                    
+                }
+                h1{
+                    font-family: algerian, sans-serif;
+                    font-size: 40px;
+                    color: crimson;
+                  
+                    
+                }
+                
+               
+               
+                
+                h4{
+                    margin: 0px;
+                    font-size: 15px;
+                     font-family: calibri, sans-serif;
+                }
+                
+                h3{
+                    margin: 10px;
+                    font-size: 23px;
+                    font-family: arial, sans-serif;
+                    color: white;
+                }
+               :link{
+                    text-decoration: none;
+                    font-size: 40px;
+                    text-align: center;
+                    margin: 200px;
+                    background-color: white;
+                    padding: 40px;
+                    font-family: arial, sans-serif;
+                }
+                
+                
+                :hover{
+                    
+                    background-color: black;
+                    color: white;
+                    padding: 40px;
+                    
+                }
+                
+        </style>
+        
+            <bod>
+                <br>
+                <br>
+                
+               
+               
+                
+                <center>
+                <div>
+                    
+                        
+        <h1>CONTACT US</h1>
+        <form>
+            <hr>
+            
+                  <h3>ADDRESS</h3>
+            <p>Gaida Diga Along Kumbotso Road,<br>Kano State Nigeria</p>
+             <h3>EMAIL ADDRESS</h3>
+            <h4>faloloboutique@gmail.com</h4>
+             <h3>PHONE NUMBER</h3>
+            <h4>+2348143202553 <br> +2349121275833 <br> +2349011598616</h4>
+                
+                </div>
+                   
+                </form>
+        
+        </center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+        <a href="Home.html">Back to Home</a>
+                 
+        </bod>
+    </head>
+</html>
