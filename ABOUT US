@@ -1,0 +1,88 @@
+<html>
+    <head>
+    
+        <title>About Us</title>
+            <style>
+                body{
+                    background-color: black;
+                }
+        
+                div{
+                    background-color: white;
+                    width: 350px;
+                    height: 400px;
+                    padding: 20px;
+                    float: right;
+                    margin: 80px;
+                 
+                    border-color: red;
+                }
+                h1{
+                    text-align: center;
+                    font-family: algerian, sans-serif;
+                    margin: 0px;
+                    font-size: 60px;
+                    color: red;
+                    
+                    
+                }
+                :link{
+                    text-decoration: none;
+                    font-size: 40px;
+                    text-align: left;
+                    margin: 200px;
+                    background-color: white;
+                    padding: 40px;
+                    font-family: arial, sans-serif;
+                }
+                :hover{
+                    padding: 40px;
+                    background-color: red;
+                }
+                h6{
+                    text-align: right;
+                    margin: 80px;
+                    font-size: 20px;
+                    font-family: brush script mt, sans-serif;
+                }
+
+                h5{
+                    font-family: arial, sans-serif;
+                    font-size: 20px;
+                }
+                
+        </style>
+    
+    <body>  
+        <div>
+        
+        <h1>ABOUT US</h1>
+        
+    <h5> MUNA SAYAR DA KAYAN SAWA IRN NAZAMANI MASU KYAU AKAN FARASHI MAI RAHUSA ZAKA IYA YIN. <br> ODER KUMA A KAWO MAKA HAR INDA KAKESO ABATRE DA WANI MATSALA KAYAN ZASU ZO CIKIN KOSHIN LAFIYA </h5>
+        
+        <h6>Mun Gode</h6>
+        
+        </div>
+        
+         <br>
+            <br>
+            <br>
+         <br>
+            <br>
+            <br>
+        
+         <br>
+            <br>
+            <br>
+         <br>
+            <br>
+            <br>
+         
+        <a href="Home.html">Back to Home</a>
+        
+        
+        
+        </body>
+    </head>
+    
+</html>
