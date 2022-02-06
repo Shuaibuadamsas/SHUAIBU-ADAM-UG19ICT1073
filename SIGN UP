@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <title>Yaseer</title>
+            <style>
+                
+                body{
+                    background-color: blanchedalmond;
+                }
+                
+                div{
+                    background-color: white;
+                    width:600px;
+                    height: 650px;
+                    box-shadow: 0px 0px 25px gray;
+                }
+                
+                input{
+                    padding: 10px;
+                    margin: 13px;
+                    border-radius: 10px;
+                    
+                }
+                button{
+                    padding: 10px;
+                    margin: 5px;
+                    border-radius: 10px;
+                }
+                h2{
+                    font-family: ariala, sans-serif;
+                    margin: 0px;
+                    
+                }
+                h3{
+                    font-family: calibri, sans-serif;
+                }
+                :link{
+                    text-decoration: none;
+                }
+        </style>
+            <body>
+                <button><a href="Home.html">Back to Home</a></button>
+               <form>
+                    <center>
+                        
+                        
+                        <h2>FALOLO GLOBAL BOUTIQUE<br><h3>Sign Up</h3></h2>
+                   <div>
+               
+                   <br>
+                        <br>
+                   First Name<br><input type="text" placeholder="First Name"><br>
+                   Last Name<br><input type="password" placeholder="Last Name"><br>
+                        Username<br><input type="password" placeholder="Username"><br>
+                        Email<br><input type="password" placeholder="Emaail"><br>
+                        Password<br><input type="password" placeholder="Password"><br>
+                        Phone Number<br><input type="password" placeholder="Phone Number"><br>
+                     
+                    <button><a href="#">Submit</a></button>
+                 <p>Already have account<a href=Log%20In%20Page.html><br>Log In</a></p>
+                 
+                   
+                   </div>
+                       </center>
+                </form>
+                
+                
+               
+                
+                
+      
+                
+               
+                
+           
+        </body>
+                   
+    </head>
+
+</html>
