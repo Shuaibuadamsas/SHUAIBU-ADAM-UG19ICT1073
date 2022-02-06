@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title> AU COMPUTER & INTERNET CAFE</title>
+        <style>
+        
+            body{
+                background-color: antiquewhite;
+            }
+            h1{
+                font-family: halvetica algerian sans-serif ;                
+            }
+            
+            input{
+                margin: 10px;
+                padding: 20px;
+                border-radius: 20px;
+                box-sizing: 20px;
+            }
+            button{
+                padding: 20px;
+                margin: 10px;
+                border-radius: 10px;
+            }
+            
+            
+        </style>
+            <body>
+                <center>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                
+                
+        
+            <h1>REGISTRATION FORM INTAKE 1</h1>
+                    <form>
+                <input type="text" placeholder="Your Email"><br>
+              <input type="password" placeholder="Password"><br>
+                
+                
+                </form>
+                    <button>Login</button>
+                    </center>
+                
+        </body>
+    </head>
+</html>
